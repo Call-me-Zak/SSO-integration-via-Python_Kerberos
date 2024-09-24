@@ -1,4 +1,4 @@
-# SSO-integration-via-Python_Kerberos (in progress)
+# SSO-integration-via-Python_Kerberos (discontinued & replaced by server-side AD-based authentication)
 
 #### Implementation Plan
 - Configure Django for Integrated Windows Authentication (IWA)
